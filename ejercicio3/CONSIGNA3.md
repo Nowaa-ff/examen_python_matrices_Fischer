@@ -6,9 +6,9 @@ Realizar un juego de Ta Te Ti básico en el que:
 
 Se muestre un tablero vacío tal que así:
 
-" - | - | - "
-" - | - | - "
-" - | - | - " 
+ - | - | - 
+ - | - | - 
+ - | - | -  
 
 Luego el programa debe:
 - Pedir al jugador 1 la fila y columna que corresponda llenar.
